@@ -2,6 +2,7 @@
 Computer Graphic - Java OpenGL - Student project (PGRF3 - FIM - UHK) - Shaders - Mapping and Lighting
 
 Shader - Per Pixel
+
 	- Model
 		- GRID
 		- Cartesian function 3x
@@ -27,6 +28,7 @@ Shader - Per Pixel
 
 
 Shader - Per Vertex & Per Pixel LIGHTING
+
 	- Model
 		- Cartesian function 1x
 		- Sferic function 1x
