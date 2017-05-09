@@ -1,6 +1,9 @@
 # PGRF_SHADERS_MAPPING_LIGHTING
 Computer Graphic - Java OpenGL - Student project (PGRF3 - FIM - UHK) - Shaders - Mapping and Lighting
 
+Date: 2016
+More information in wiki...
+
 Shader - Per Pixel
 
 	- Model
